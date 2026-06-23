@@ -34,4 +34,4 @@ Model diuji menggunakan data testing independen dan menghasilkan performa tinggi
 
 Detail Petunjuk dalam bentuk pdf termasuk Confusion Matrix: [Farhan.Ammar.Rauf.Ayyasy_235060301111039_UAS.Kecerdasan.Buatan.pdf](https://github.com/user-attachments/files/29252246/Farhan.Ammar.Rauf.Ayyasy_235060301111039_UAS.Kecerdasan.Buatan.pdf)
 
-Link Video Demo dan Slide : 
+Link Video Demo, Slide, dan Hasil Evaluasi(Confusion Matrix) : https://drive.google.com/drive/folders/1D4WkKjIBB-ND3lDxsEp_mYQ6pF5AOvoc?usp=sharing
